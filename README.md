@@ -2,7 +2,7 @@
 Este projeto consiste na construção de um dashboard interativo utilizando Dash e Plotly para visualização de dados de um e-commerce. A aplicação permite observar padrões de preços e gêneros de produtos de forma visual e dinâmica.
 
 ## Objetivo
-Desenvolver um dashboard com gráficos interativos para explorar e comunicar insights sobre os produtos de um e-commerce, com foco na relação entre preços e categorias (gêneros).
+Desenvolver um dashboard com gráficos interativos para explorar e comunicar insights sobre os produtos de um e-commerce, com foco na relação entre preços e gêneros.
 
 # Funcionalidades do Dashboard
 O dashboard inclui os seguintes gráficos interativos:
@@ -26,4 +26,4 @@ O dashboard inclui os seguintes gráficos interativos:
 ## Dataset
 O projeto utiliza o arquivo "ecommerce_estatistica.csv" contendo dados de um e-commerce, com ao menos as colunas:
 - Preço: preço do produto
-- Gênero: categoria ou gênero do produto
+- Gênero: gênero do produto
